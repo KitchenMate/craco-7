@@ -40,7 +40,8 @@
     "craco": "./dist/bin/craco.js"
   },
   "peerDependencies": {
-    "react-scripts": "^5.0.0"
+    "react-scripts": "^5.0.0",
+    "react-refresh": "https://github.com/KitchenMate/craco-7/releases/download/v0.4.3/react-refresh-0.4.3.tgz"
   },
   "devDependencies": {
     "@babel/types": "^7.19.3",
@@ -54,6 +55,7 @@
     "eslint-webpack-plugin": "^3.2.0",
     "jest": "^27.5.1",
     "react-scripts": "5.*",
+    "react-refresh": "https://github.com/KitchenMate/craco-7/releases/download/v0.4.3/react-refresh-0.4.3.tgz",
     "ts-jest": "^27.1.5",
     "typescript": "^4.8.4",
     "webpack": "^5.74.0"
